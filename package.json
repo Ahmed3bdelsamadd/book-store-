@@ -1,0 +1,10 @@
+{
+  "name": "emo-store-v10-final-contact",
+  "version": "10.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Final Emo Store with fixed equal category cards and contact popup/section",
+  "license": "MIT"
+}
